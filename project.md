@@ -1,95 +1,115 @@
-# CS575-ethics-spring-2022-team-project
+# [CoE491A/EE488E/CS492D/STP483A] AI and Its Social Impact / Spring 2023 - Team Project
 
 ## Schedule
-- Week  3 (3/13): **Team matching, Topic exploration**
-- Week  8 (4/17, 4/19): **Project proposal, Peer grading**
-  - Slides submission deadline: **23:59, April 16, 2023**
+- Week  2 (3/9): **Team matching, Topic exploration**
+- Week  4 (3/23): **Project proposal, Peer grading**
+  - Slides submission deadline: **23:59, March 22, 2023**
   - Peer grading: Real-time
-- Week 11 (5/8, 5/10): **Progress Update, Peer grading**
-  - Slides submission deadline: **23:59, May 7, 2023**
-  - Peer grading: Real-time
-- Week 15 (6/5, 6/7): **Final presentation, Final report, Peer grading, Teamwork report**
-  - Slides submission deadline: **23:59, June 4, 2023**
-  - Final report submission deadline: **23:59, June 14, 2923**
+- Week  8 (4/20): **Progress Update, Peer grading**
+  - Presentation Video submission deadline: **23:59, April 19, 2023**
+  - Peer grading deadline: **23:59, April 21, 2023**
+- Week 15 (6/8): **Final presentation, Peer grading**
+  - Slides submission deadline: **23:59, June 7, 2023**
   -  Peer grading: Real-time
+- Week 16 (6/15): **Final report, Teamwork report**
+  - Slides submission deadline: **23:59, June 14, 2023**
   -  Teamwork report: Google form
 
 ## Goal
-This project aims to replicate an existing paper on ethical issues in machine learning, and then make meaningful improvements/extensions in terms of research question, machine learning model, features, datasets, or evaluation metrics.
+The goal of the team project is to research a case different from the four cases we are studying in class. The case should be based on AI technology; and the project should discuss the technology, social impact, and legal aspects of the technology, similar to how the lecturers present the cases.
+
+## Content
+The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email.
 
 ## Teams
-This is a team-based project. Please form teams of **3 students** by **March 13**. If you need help forming teams, advertise yourself and find your teammate in **#team-matching**.
+This is a team-based project. Please form teams of **3 students** by **March 9**. If you need help forming teams, advertise yourself and find your teammate in class.
 
-## Project Grading (50% of Course Grade)
-- **Proposal presentation**: 5%
-- **Progress presentation**: 5%
+## Project Grading (60% of Course Grade)
+- **Proposal presentation**: 10%
+- **Progress presentation**: 10%
 - **Final presentation**: 15%
 - **Final report**: 10%
 - **Peer grading**: 10%
 - **Teamwork report**: 5%
 
 **Note that any team may get up to -25%p for project scores if there is a serious problem with teamwork.**
-That means, the project grade could be 25/50, even if all presentation and report scores are perfect.
+That means, the project grade could be 35/60, even if all presentation and report scores are perfect.
 This can apply to an individual student, or to the entire team.
 
 ## Deliverables
 **All project team members should present an important part in the presentation (speak for at least one minute each)**.
 You should present your work in presentation session. 
 - **Proposal presentation**: 5-8 minute presentation
-- **Progress presentation**: 7-10 minute presentation
+- **Progress presentation video**: 7-10 minute presentation video (recorded)
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
 - **Peer grading**: 4 peer gradings for proposal, progress, final presentation, and final report
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Instruction
-**Choose a paper with the following criteria.** 
-- Recent paper published in 2019 or later
-- Technical paper that includes a machine learning model and a medium- to large-sized dataset
-- Covering any of the following topics: bias, fairness, social impact, interpretability, privacy, deepfake/generative modeling, social good
-- From ML/NLP/AI conferences including ACL, EMNLP, NAACL, Coling, CVPR, ICCV, ECCV, NeurIPS, AAAI, IJCAI, ICML, ICLR
-- If your paper deviates from the above criteria, or if your project is not based on replication of a previous paper, please email the teaching staff
+** Choose topic(s) and conduct interview(s). **
+- **Topics** have to be related to AI and its social impact
+- Specific **case** has to be proposed and researched on
+- Contact interviewees who are knowledgeable about the case can have an interview regarding the issue
+- The topics should be about a case different from the four cases we are studying in class
 
-**Based on the paper, there are two options you can choose:**
-1. Replicate their method and apply it to your own research problem. 
-2. Replicate their method and improve it. You should find a problematic issue of the existing work and try to resolve/alleviate it.
+** Based on the interview(s), prepare your final presentation and report. **
+- They should discuss the technology, social impact, and legal aspects of the technology, including case studies that your team worked on.
 
 ## Project Proposal
 Give a **5-8 minute proposal presentation** that includes the following:
-- **Problem**: What is the topic of your paper? What is the specific task being tackled? Why is it important to solve this problem?
-- **Related work**: What existing papers have dealt with this problem? What were their approaches?
-- **Replication approach**: Which paper will you use for replication and why?
-- **Improvement approach**: How will you improve upon the replication paper?
-- **Data**: Describe the dataset you will use, even if it is the same one as in the replication paper. If the replication paper does not work with openly available data, explain how you will gather your own data. If using openly available data but you will work with a subset of the data, explain why and how you will select the subset.
+- **Problem**: What is the topic of your paper? What is the specific case being tackled? Why is it important to consider this case?
+- **Related work**: What kind of social issues have been proposed regarding this problem? What kind of solutions or considerations were proposed?
+- **Technology**: What kind of technology was used in this case?
+- **Social Impact**: What/How was this technology’s social impact?
+- **Legal Aspects**: What does the current law lack regarding this issue? What kind of legislation is needed for this technology?
+- **Interview**: Who do you wish to interview (It is suggested to have multiple candidates since all of the interviewees may not be able to be interviewed)? Why did you pick those people? 
 - **Plan**: Explain a week-by-week plan of completing this project, clearly indicating which tasks will be done by which team member, and which tasks will be done together.
 
 ## Progress Update
-Give a **7-10 minute progress presentation** that includes the following:
-- **Introduction**: Please briefly explain your problem, approach, and dataset.
-- **Replication results**:
-  - How did you replicate the original paper? What problems did you face during the replication, and how did you solve them?
-  - Describe the experiment setting, results of baseline implementation, replication of the chosen models and experiments. You may not have complete replication results, in which case just explain the results you have so far and a concrete plan of completing the rest.
+Record a **7-10 minute progress presentation video** that includes the following:
+- **Introduction**: Please briefly explain your topic, case, and societal issue.
+- **Interview**:
+  - Who did your team interview? Why were those people chosen? Which part (technology/social impact/legal aspects) did the interviewee most talk about?
+  - What kind of questions were asked?
+  - What did you learn from the interview(s)? Do you wish to conduct more interviews?
 - **Plan**:
-  - Again, how will you improve or modify the original paper? Please have a more concrete plan for this based on the replication results.
+  - Again, how will you improve or modify your research? Please have a more concrete plan for this based on the interviews and research conducted.
 
 ## Final Presentation & Final Report
-Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited references) report** in ICML format. Below is the structure of the final report. The final presentation should contain the same content but in a presentation style.
+Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited references) report**. Below is the structure of the final report. The final presentation should contain the same content but in a presentation style.
 - **Abstract**: Summary of your work
-- **Introduction**: Background and your motivation for the problem
-- **Approach**: Your approach to solving the problem
-- **Data & Experiments**: Data, model, algorithm, comparisons to baseline models, etc
-- **Results**:
-  - Replication results
-  - Results of your improved approach: use graphs, tables, whatever is most appropriate to present your results
-  - Interpretation of results: how do the results answer your research problem?
-- **Discussions**: Your improvements and the limitations
+- **Introduction**: 
+  - Brief overview of the case research and its importance
+  - Purpose of the report
+  - Outline of the report
+- **Related Works**:
+  - Brief history of AI and its social impact
+  - Types of AI technology and their applications
+- **Technology**:
+  - Explanation of the AI technology the case is based on
+- **Social Impact**:
+  - Positive and negative impacts of the AI technology
+  - Ethical considerations
+- **Legal Aspects**:
+  - Legal issues related to AI technology
+  - Current laws and regulations related to AI technology
+  - Future legal implications of AI technology
+- **Case Study**:
+  - Detailed analysis of a case study related to AI technology
+  - Discussion of the technology, social impact, and legal aspects of the case study
+  - Summary of the interviews conducted
+  - Discussion of the insights gained from the interviews
+- **Conclusion**: 
+  - Summary of the key findings from the report
+  - Recommendations for future research and policy development
 - **References** (unlimited pages)
 
 ## Peer Grading
 - We will use Google form (TBD) and it will be done in the lecture.
 - Everyone (individually) should grade and comment on
   - Proposal presentations
-  - Progress presentations
+  - Progress presentation videos
   - Final presentations & reports
 
 ## Teamwork Report
@@ -101,3 +121,5 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
   - Any praises and special recognitions
   - Due date: same as the final report evaluation
   
+
+
