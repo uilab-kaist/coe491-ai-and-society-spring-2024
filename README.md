@@ -26,7 +26,7 @@ This course follows regulations regarding KAIST and South Korea government.
 **Please send emails to ai.and.its.social.impact@gmail.com. We will not consider any class-related email arriving in our personal accounts. Please put "[CoE491A] to the title when you email. (e.g., [CoE491A] De we have a class on MM/DD?)**
 
 ## Time & Location
-* THU 14:00 PM - 16:00 PM (*except for the first day (3/2), which will start at 13:00 PM*)
+* THU 13:00 PM - 16:00 PM (Can be changed due to supplementary videos provided)
 * Rm. 114, N1 (Kim Beang-Ho KIM Sam-Youl ITC B/D)
 
 ## Schedule (Subject to Change)
@@ -59,7 +59,7 @@ Students will be asked to do the following things.
 3.	Peer review of team project presentations
 
 ### Lecture
-A lecturer will give a lecture in person, or the students will be asked to watch one or two videos before each class.
+The students will be asked to watch one or two videos before each class, and some classes will also include in-class lectures.
 
 ### Discussion
 Students will discuss with their groups the topics based on the lectures/interviews they watched with thought-provoking questions.
