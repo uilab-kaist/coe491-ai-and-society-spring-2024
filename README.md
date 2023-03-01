@@ -31,22 +31,22 @@ This course follows regulations regarding KAIST and South Korea government.
 
 ## Schedule (Subject to Change)
 
-|  week |                    Day                    |                Type             |                      Topic                    |      notes     |           Project          |
+|  week |                    Day                    |                Type             |                      Topic                    |      Lectures     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | 03/02                                     | Introduction <br/> Discussion | Introduction / Chatbots: Technology | 1 Supplementary Video | |
-|   2   | 03/09                              | Discussion     | Chatbots: Social Impact | | Choose Teams |
-|   3   | 03/16                              | Discussion     | Chatbots: Legal Aspects | | |
+|   1   | 03/02                                     | Introduction, <br/> Discussion | Introduction / Chatbots: Technology | Lecture Video during class & after class| |
+|   2   | 03/09                              | Discussion     | Chatbots: Social Impact | Lecture Video before class | Choose Teams |
+|   3   | 03/16                              | Discussion     | Chatbots: Legal Aspects | Interview Video before class | |
 |   4   | 03/23                              | Project Proposals    |  | | Proposal, Peer-review |
-|   5   | 03/30                              | Discussion    | Algorithmic Hiring: Technology         | | |
-|   6   | 04/06                              | Discussion     | Algorithmic Hiring: Impact to Society                             | | |
-|   7   | 04/13                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | | |
+|   5   | 03/30                              | Discussion    | Algorithmic Hiring: Technology         | Interview Video before class | |
+|   6   | 04/06                              | Discussion     | Algorithmic Hiring: Impact to Society                             | In-class Lecture | |
+|   7   | 04/13                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video & 1 Interview Video before class | |
 |   8   | 04/20                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
-|   9   | 04/27                              | Discussion    | AI-assisted Social Services: Technology | | |
-|   10  | 05/04                              | Discussion    | AI-assisted Social Services: Social Impact | | |
+|   9   | 04/27                              | Discussion    | AI-assisted Social Services: Technology | In-class Lecture & Interview Video before class | |
+|   10  | 05/04                              | Discussion    | AI-assisted Social Services: Social Impact | Interview Video before class| |
 |   11  | 05/11                              | Discussion    | AI-assisted Social Services: Legal Aspects  | | |
-|   12  | 05/18                              | Discussion    | Self-driving: Social Impact | | |
-|   13  | 05/25                              | Discussion    | Self-driving: Technology | | |
-|   14  | 06/01                              | Discussion       | Self-driving: Legal Aspects | | |
+|   12  | 05/18                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
+|   13  | 05/25                              | Discussion    | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
+|   14  | 06/01                              | Discussion       | Self-driving: Legal Aspects | Interview Video before class| |
 |   15  | 06/08                              | Project Presentations | | | Final Presentation, Peer-review|
 |   16  | 06/15                             | No Class (Final Exam)           |                           | | Final Report |
 
