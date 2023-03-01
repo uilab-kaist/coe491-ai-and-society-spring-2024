@@ -5,7 +5,7 @@
 All contents in this document are tentative.
 
 ## Announcement
-* [20230302] Watch this [supplementary video]()
+* Lecture videos or interview videos that have to be watched before class will be uploaded on KLMS.
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend.
