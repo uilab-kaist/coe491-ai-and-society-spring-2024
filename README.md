@@ -18,9 +18,9 @@ This course follows regulations regarding KAIST and South Korea government.
 * Byungpil Kim, Innovation and Technology Management
 
 ### TA
-* [Haneul Yoo](https://haneul-yoo.github.io)
-* Nayeon Lee
-* Chani Jung
+* [Haneul Yoo](https://haneul-yoo.github.io) (School of Computing)
+* Nayeon Lee (School of Computing)
+* Chani Jung (School of Computing)
 * Contact: ai.and.its.social.impact@gmail.com
 
 **Please send emails to ai.and.its.social.impact@gmail.com. We will not consider any class-related email arriving in our personal accounts. Please put "[CoE491A] to the title when you email. (e.g., [CoE491A] De we have a class on MM/DD?)**
@@ -71,7 +71,7 @@ You will present and discuss ideas for further consideration in AI and its socia
 * See the details on this [page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/discussion).
 
 ### Team Project
-The goal of the team project is to research a case different from the four cases we are studying in class. The case should be based on AI technology; and the project should discuss the technology, social impact, and legal aspects of the technology, similar to how the lecturers present the cases. The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email. See the details on this [page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/project)
+The goal of the team project is to research a case different from the four cases we are studying in class. The case should be based on AI technology; and the project should discuss the technology, social impact, and legal aspects of the technology, similar to how the lecturers present the cases. The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email. See the details on this [page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/project).
 
 ### Policy on Large Language Models
 Recent progress in large-scale language models (LLM), such as ChatGPT, motivates explicit policies.
