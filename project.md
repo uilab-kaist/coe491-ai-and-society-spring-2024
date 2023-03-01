@@ -38,7 +38,7 @@ This can apply to an individual student, or to the entire team.
 
 ## Deliverables
 **All project team members should present an important part in the presentation (speak for at least one minute each)**.
-You should present your work in presentation session. 
+You should present your work in the presentation session. 
 - **Proposal presentation**: 5-8 minute presentation
 - **Progress presentation video**: 7-10 minute presentation video (recorded)
 - **Final presentation**: 10-15 minute presentation
@@ -47,13 +47,13 @@ You should present your work in presentation session.
 - **Teamwork report**: (individually written/submitted) description of what each team member did
 
 ## Instruction
-** Choose topic(s) and conduct interview(s). **
+**Choose topic(s) and conduct interview(s).**
 - **Topics** have to be related to AI and its social impact
 - Specific **case** has to be proposed and researched on
-- Contact interviewees who are knowledgeable about the case can have an interview regarding the issue
+- Contact interviewees who are knowledgeable about the case and can have an interview regarding the issue
 - The topics should be about a case different from the four cases we are studying in class
 
-** Based on the interview(s), prepare your final presentation and report. **
+**Based on the interview(s), prepare your final presentation and report.**
 - They should discuss the technology, social impact, and legal aspects of the technology, including case studies that your team worked on.
 
 ## Project Proposal
@@ -64,7 +64,7 @@ Give a **5-8 minute proposal presentation** that includes the following:
 - **Social Impact**: What/How was this technology’s social impact?
 - **Legal Aspects**: What does the current law lack regarding this issue? What kind of legislation is needed for this technology?
 - **Interview**: Who do you wish to interview (It is suggested to have multiple candidates since all of the interviewees may not be able to be interviewed)? Why did you pick those people? 
-- **Plan**: Explain a week-by-week plan of completing this project, clearly indicating which tasks will be done by which team member, and which tasks will be done together.
+- **Plan**: Explain a week-by-week plan for completing this project, clearly indicating which tasks will be done by which team member, and which tasks will be done together.
 
 ## Progress Update
 Record a **7-10 minute progress presentation video** that includes the following:
@@ -118,7 +118,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - Everyone (individually) should write
   - Who did what for each task (proposal presentation, progress presentation, project presentation, final report) in detail
   - Any grievances
-  - Any praises and special recognitions
+  - Any praises and special recognition
   - Due date: same as the final report evaluation
   
 
