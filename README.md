@@ -1,8 +1,8 @@
 # [CoE491A/EE488E/CS492D/STP483A] AI and Its Social Impact / Spring 2023
 
-> Please send email to ai.and.its.social.impact@gmail.com regarding any class-related issues with "[CoE491A]" to the title.
+> Please send email to <ai.and.its.social.impact@gmail.com> regarding any class-related issues with "[CoE491A]" to the title.
 
-All contents in this document are tentative.
+All contents in this document are subject to change.
 
 ## Announcement
 * Lecture videos or interview videos that have to be watched before class will be uploaded on KLMS.
@@ -37,9 +37,9 @@ This course follows regulations regarding KAIST and South Korea government.
 |   2   | 03/09                              | Discussion     | Chatbots: Social Impact | Lecture Video before class | Choose Teams |
 |   3   | 03/16                              | Discussion     | Chatbots: Legal Aspects | Interview Video before class | |
 |   4   | 03/23                              | Project Proposals    |  | | Proposal, Peer-review |
-|   5   | 03/30                              | Discussion    | Algorithmic Hiring: Technology         | Interview Video before class | |
-|   6   | 04/06                              | Discussion     | Algorithmic Hiring: Impact to Society                             | In-class Lecture | |
-|   7   | 04/13                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video & 1 Interview Video before class | |
+|   5   | 03/30                              | Discussion    | Algorithmic Hiring: Technology         | In-class Lecture | |
+|   6   | 04/06                              | Discussion     | Algorithmic Hiring: Impact to Society                             | 2 Interview Videos before class | |
+|   7   | 04/13                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video before class | |
 |   8   | 04/20                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
 |   9   | 04/27                              | Discussion    | AI-assisted Social Services: Technology | In-class Lecture & Interview Video before class | |
 |   10  | 05/04                              | Discussion    | AI-assisted Social Services: Social Impact | Interview Video before class| |
