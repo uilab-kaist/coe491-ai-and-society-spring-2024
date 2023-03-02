@@ -7,7 +7,7 @@ You will be asked to
 4. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1eW3-PCS-H1-GaT8PSTtsyCHo6EUnrfb2?usp=share_link)
 
 ## Discussion Prompt
-- All students will prepare the discussion prompts before class after watching the video(s) uploaded **until every Wednesday at 6 pm** (submit on KLMS).
+- All students will submit the discussion prompts before class, after watching the video(s) uploaded, **until every Wednesday at 6 pm** (submit on KLMS).
 - Please refer to the following examples for the discussion prompt.
 
 ```
