@@ -7,13 +7,15 @@ You will be asked to
 4. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1eW3-PCS-H1-GaT8PSTtsyCHo6EUnrfb2?usp=share_link)
 
 ## Discussion Prompt
-- Some students assigned to this discussion will prepare the discussion prompts.
+- All students will prepare the discussion prompts before class after watching the video(s) uploaded **until every Wednesday at 6 pm** (submit on KLMS).
 - Please refer to the following examples for the discussion prompt.
 
 ```
-1. Regarding today’s interview video, what should the users take into account the most when using a chatbot for psychotherapy?
-2. What should the developers of personalized voice assistants consider in terms of user privacy?
+1. Regarding today’s interview video, what should the users consider most when using a chatbot for psychotherapy?
+2. What should the developers of personalized voice assistants consider regarding user privacy?
 ```
+
+The lecturer for each class will curate the submitted discussion prompts and present the final prompt during class.
 
 ## Discussion
 - Each team consisting of three students will do a discussion starting from the prompt.
