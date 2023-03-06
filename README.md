@@ -81,6 +81,7 @@ Recent progress in large-scale language models (LLM), such as ChatGPT, motivates
 * You will be asked to state how you are assisted by LLM at the end of the semester to evolve in future courses.
 
 ## Evaluation (Subject to Change)
+The final grade of this course is provided as S/U, and the cut-off point of S grade will be announced soon.
 1.	Attendance and participation 10%
 2.	Group discussion write-ups 20%
 3.	Peer reviews 10%
