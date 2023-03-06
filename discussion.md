@@ -17,7 +17,7 @@ You will be asked to
 ```
 
 - The interview/lecture video(s) before class will be uploaded by every Monday 23:59.
-- If you do not submit a discussion prompt, **0.3pt** will be deducted from your attendance point, which is 10% of the whole evaluation score. If you are late for the submission, **0.1pt** will be deducted.
+- If you do not submit this form, 0.3pt will be deducted from your attendance point (10%). We allow a late submission before the class starts, and you will get a 0.1pt deduction.
 
 The lecturer for each class will curate the submitted discussion prompts and present the final prompt during class.
 
