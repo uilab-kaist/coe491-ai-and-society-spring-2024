@@ -6,6 +6,7 @@ All contents in this document are subject to change.
 
 ## Announcement
 * Lecture videos or interview videos that have to be watched before class will be uploaded on KLMS.
+* [2023/03/06] Notice about team construction and discussion prompt has been uploaded on [KLMS](https://klms.kaist.ac.kr/mod/courseboard/article.php?id=801405&bwid=311702)
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend.
@@ -54,9 +55,10 @@ This course follows regulations regarding KAIST and South Korea government.
 This course consists of lectures, readings, discussions, quizzes, and team projects.
 Students will be asked to do the following things.  
 
-1.	Group discussion write-up, one per week  
-2.	Team project proposal presentation, progress presentation, final presentation, final report  
-3.	Peer review of team project presentations
+1.	Group discussion write-up, one per week 
+2.  Individual discussion prompt, one per week
+3.	Team project proposal presentation, progress presentation, final presentation, final report  
+4.	Peer review of team project presentations
 
 ### Lecture
 The students will be asked to watch one or two videos before each class, and some classes will also include in-class lectures.
