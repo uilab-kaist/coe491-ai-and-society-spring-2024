@@ -37,7 +37,7 @@ Discussion:
 ```
 
 ## Discussion Presentation
-- One or two teams will lead one discussion session in which they are assigned and share their discussion based on their discussion report.
+- One or two (maybe more) teams will lead the discussion session and share their discussion based on their discussion report.
 - Any other presentation materials with their discussion report in Google Drive are optional.
-
+- The lecturer will decide which teams will present during class.
 
