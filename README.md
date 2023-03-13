@@ -34,20 +34,20 @@ This course follows regulations regarding KAIST and South Korea government.
 
 |  week |                    Day & Time                    |                Type             |                      Topic                    |      Lectures     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
-|   1   | 03/02 <br/> 13:00                                   | Introduction, <br/> Discussion | Introduction / Chatbots: Technology | Lecture Video during class & after class| |
-|   2   | 03/09 <br/> **14:00**                              | Discussion     | Chatbots: Social Impact | Lecture Video before class | Choose Teams |
-|   3   | 03/16 <br/> **14:00**                              | Discussion     | Chatbots: Legal Aspects | Interview Video before class | |
+|   1   | 03/02 <br/> 13:00                                   | Introduction, <br/> Discussion | Introduction / Chatbots: Technology | 1 Lecture Video during class & 1 after class| |
+|   2   | 03/09 <br/> **14:00**                              | Discussion     | Chatbots: Social Impact | 1 Lecture Video before class | Choose Teams |
+|   3   | 03/16 <br/> **14:00**                              | Discussion     | Chatbots: Legal Aspects | 1 Interview & 1 Lecture Video before class | |
 |   4   | 03/23 <br/> 13:00                              | Project Proposals    |  | | Proposal, Peer-review |
 |   5   | 03/30 <br/> 13:00                              | Discussion    | Algorithmic Hiring: Technology         | In-class Lecture | |
 |   6   | 04/06 <br/> **14:00**                              | Discussion     | Algorithmic Hiring: Impact to Society                             | 2 Interview Videos before class | |
 |   7   | 04/13 <br/> **14:00**                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video before class | |
 |   8   | 04/20                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
-|   9   | 04/27 <br/> 13:00                              | Discussion    | AI-assisted Social Services: Technology | In-class Lecture & Interview Video before class | |
-|   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Social Impact | Interview Video before class| |
+|   9   | 04/27 <br/> 13:00                              | Discussion    | AI-assisted Social Services: Technology | 1 Interview Video before class & In-class Lecture | |
+|   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Social Impact | 1 Interview Video before class| |
 |   11  | 05/11 <br/> 13:00                              | Discussion    | AI-assisted Social Services: Legal Aspects  | | |
 |   12  | 05/18 <br/> 13:00                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
 |   13  | 05/25 <br/> **14:00**                              | Discussion    | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
-|   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Legal Aspects | Interview Video before class| |
+|   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Legal Aspects | 1 Interview Video before class| |
 |   15  | 06/08 <br/> 13:00                              | Project Presentations | | | Final Presentation, Peer-review|
 |   16  | 06/15                             | No Class (Final Exam)           |                           | | Final Report |
 
