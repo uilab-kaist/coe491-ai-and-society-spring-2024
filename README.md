@@ -7,6 +7,7 @@ All contents in this document are subject to change.
 ## Announcement
 * Lecture videos or interview videos that have to be watched before class will be uploaded on KLMS.
 * [2023/03/06] Notice about team construction and discussion prompt has been uploaded on [KLMS](https://klms.kaist.ac.kr/mod/courseboard/article.php?id=801405&bwid=311702)
+* [2023/03/19] Class schedule has been updated.
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend.
@@ -42,9 +43,9 @@ This course follows regulations regarding KAIST and South Korea government.
 |   6   | 04/06 <br/> **14:00**                              | Discussion     | Algorithmic Hiring: Impact to Society                             | 2 Interview Videos before class | |
 |   7   | 04/13 <br/> **14:00**                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video before class | |
 |   8   | 04/20                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
-|   9   | 04/27 <br/> 13:00                              | Discussion    | AI-assisted Social Services: Technology | 1 Interview Video before class & In-class Lecture | |
+|   9   | 04/27 <br/> **14:00**                              | Discussion    | Generative AI and IP: Legal Aspects | 1 Lecture Video before class | |
 |   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Social Impact | 1 Interview Video before class| |
-|   11  | 05/11 <br/> 13:00                              | Discussion    | AI-assisted Social Services: Legal Aspects  | | |
+|   11  | 05/11 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Technology  | 1 Interview Video before class | |
 |   12  | 05/18 <br/> 13:00                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
 |   13  | 05/25 <br/> **14:00**                              | Discussion    | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
 |   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Legal Aspects | 1 Interview Video before class| |
