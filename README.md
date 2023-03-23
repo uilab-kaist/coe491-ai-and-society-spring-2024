@@ -44,8 +44,8 @@ This course follows regulations regarding KAIST and South Korea government.
 |   7   | 04/13 <br/> **14:00**                              | Discussion |Algorithmic Hiring: Policies and Legal Aspects | 1 Lecture Video before class | |
 |   8   | 04/20                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
 |   9   | 04/27 <br/> **14:00**                              | Discussion    | Generative AI and IP: Legal Aspects | 1 Lecture Video before class | |
-|   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Social Impact | 1 Interview Video before class| |
-|   11  | 05/11 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Technology  | 1 Interview Video before class | |
+|   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Technology & Social Impact | 2 Interview Videos before class| |
+|   11  | 05/11 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Policies and Legal Aspects  | 1 Lecture Video before class | |
 |   12  | 05/18 <br/> 13:00                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
 |   13  | 05/25 <br/> **14:00**                              | Discussion    | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
 |   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Legal Aspects | 1 Interview Video before class| |
