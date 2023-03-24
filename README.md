@@ -9,6 +9,11 @@ All contents in this document are subject to change.
 * [2023/03/06] Notice about team construction and discussion prompt has been uploaded on [KLMS](https://klms.kaist.ac.kr/mod/courseboard/article.php?id=801405&bwid=311702)
 * [2023/03/19] Class schedule has been updated.
 
+## Shortcuts
+* [Discussion Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/discussion)
+* [Team Project Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/project)
+* [Google Drive for Class Material](https://drive.google.com/drive/folders/1r0N5Zmg675kPlOaHKacTg3QsMJ3qINYE?usp=sharing)
+
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend.
 This course follows regulations regarding KAIST and South Korea government.
