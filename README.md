@@ -52,8 +52,8 @@ This course follows regulations regarding KAIST and South Korea government.
 |   10  | 05/04 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Technology & Social Impact | 2 Interview Videos before class| |
 |   11  | 05/11 <br/> **14:00**                              | Discussion    | AI-assisted Social Services: Policies and Legal Aspects  | 1 Lecture Video before class | |
 |   12  | 05/18 <br/> 13:00                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
-|   13  | 05/25 <br/> **14:00**                              | Discussion    | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
-|   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Legal Aspects | 1 Interview Video before class| |
+|   13  | 05/25 <br/> **14:00**                              | Discussion    | Self-driving: Legal Aspects | 1 Interview Video before class| |
+|   14  | 06/01 <br/> **14:00**                              | Discussion       | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
 |   15  | 06/08 <br/> 13:00                              | Project Presentations | | | Final Presentation, Peer-review|
 |   16  | 06/15                             | No Class (Final Exam)           |                           | | Final Report |
 
