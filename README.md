@@ -6,7 +6,6 @@ All contents in this document are subject to change.
 
 ## Announcement
 * Lecture videos or interview videos that have to be watched before class will be uploaded on KLMS.
-* [2024/02/27] Class schedule has been updated.
 
 ## Shortcuts
 * [Discussion Page](https://uilab-kaist.github.io/coe491-ai-and-society-spring-2024/discussion)
