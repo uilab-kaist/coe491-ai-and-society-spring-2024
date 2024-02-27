@@ -43,15 +43,15 @@ This course follows regulations regarding KAIST and South Korea government.
 |   3   | 03/14 <br/> **11:00**                        | Discussion     | LLM: Social Impact | 2 Videos before class | |
 |   4   | 03/21 <br/> 10:00                            | Discussion     | LLM: Legal Aspects        | In-class Lecture | |
 |   5   | 03/28 <br/> TBD                              | Discussion     | Multimodal AI: Technology | | Proposal Presentations (Upload Video), Peer-review |
-|   6   | 04/04 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | | TBD |
-|   7   | 04/11 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | | TBD |
+|   6   | 04/04 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | |  |
+|   7   | 04/11 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | |  |
 |   8   | 04/18                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
 |   9   | 04/25 <br/> TBD                              | Discussion    | Automated Decision Making: Technology |  | |
 |   10  | 05/02 <br/> TBD                              | Discussion    | Automated Decision Making: Social Impact | | |
 |   11  | 05/09 <br/> TBD                             | Discussion    | Automated Decision Making: Legal Aspects| | |
-|   12  | 05/16 <br/> TBD                              | Discussion    | Self-driving: Social Impact | In-class Lecture | |
+|   12  | 05/16 <br/> TBD                              | Discussion    | Self-driving: Technology | In-class Lecture | |
 |   13  | 05/23 <br/> TBD                             | Discussion    | Self-driving: Legal Aspects | 1 Interview Video before class| |
-|   14  | 05/30 <br/> TBD                              | Discussion       | Self-driving: Technology | 1 Lecture Video & 1 Interview Video before class| |
+|   14  | 05/30 <br/> TBD                              | Discussion       | Self-driving: Social Impact | 1 Lecture Video & 1 Interview Video before class| |
 |   15  | 06/06 <br/>                 | No Class (Holiday) | | | |
 |   16  | 06/13 <br/> TBD                             | Project Presentation          |                           | | Final Presentation; Final Report |
 
