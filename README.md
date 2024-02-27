@@ -9,8 +9,8 @@ All contents in this document are subject to change.
 * [2024/02/27] Class schedule has been updated.
 
 ## Shortcuts
-* [Discussion Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/discussion)
-* [Team Project Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/project)
+* [Discussion Page](https://uilab-kaist.github.io/coe491-ai-and-society-spring-2024/discussion)
+* [Team Project Page](https://uilab-kaist.github.io/coe491-ai-and-society-spring-2024/project)
 * [Google Drive for Class Material](https://drive.google.com/drive/folders/1AAJ-MXqoQmytCkNWNpFfU_j72N_LKGf-?usp=drive_link)
 
 ## COVID-19
@@ -74,7 +74,7 @@ You will present and discuss ideas for further consideration in AI and its socia
 * 12 in-class discussions (see schedule).
 * Organize a group of 3 people, and have time to present what you think and discuss
 * All groups should submit their result at the end of class.
-* See the details on this [page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/discussion).
+* See the details on this [page](https://uilab-kaist.github.io/coe491-ai-and-society-spring-2024/discussion).
 
 ### Team Project
 The goal of the team project is to research a case different from the four cases we are studying in class. The case should be based on AI technology; and the project should discuss the technology, social impact, and legal aspects of the technology, similar to how the lecturers present the cases. The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email. See the details on this [page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/project).
