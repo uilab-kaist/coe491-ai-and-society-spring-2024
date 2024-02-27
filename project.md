@@ -1,18 +1,18 @@
-# [CoE491A/EE488E/CS492D/STP483A] AI and Its Social Impact / Spring 2023 - Team Project
+# [CoE491A/EE488E/CS492D/STP483A] AI and Its Social Impact / Spring 2024 - Team Project
 
 ## Schedule
-- Week  2 (3/9): **Team matching, Topic exploration**
-- Week  4 (3/23): **Project proposal, Peer grading**
-  - Slides submission deadline: **23:59, March 22, 2023**
-  - Peer grading: Real-time
-- Week  8 (4/20): **Progress Update, Peer grading**
-  - Presentation Video submission deadline: **23:59, April 19, 2023**
-  - Peer grading deadline: **23:59, April 21, 2023**
-- Week 15 (6/8): **Final presentation, Peer grading**
-  - Slides submission deadline: **23:59, June 7, 2023**
+- Week  2 (3/7): **Team matching, Topic exploration**
+- Week  5 (3/28): **Project proposal**
+  - Submission deadline: **23:59, March 28, 2024**
+  - Peer grading deadline: **23:59, March 31, 2024**
+- Week  8 (4/18): **Progress Update, Peer grading**
+  - Submission deadline: **23:59, April 18, 2024**
+  - Peer grading deadline: **23:59, April 21, 2024**
+- Week 16 (6/13): **Final presentation, Peer grading**
+  - Slides submission deadline: **23:59, June 12, 2023**
   -  Peer grading: Real-time
-- Week 16 (6/15): **Final report, Teamwork report**
-  - Slides submission deadline: **23:59, June 14, 2023**
+-  Week 17 (6/20) : **Final report, Teamwork report**
+  - Slides submission deadline: **23:59, June 20, 2023**
   -  Teamwork report: Google form
 
 ## Goal
@@ -22,7 +22,7 @@ The goal of the team project is to research a case different from the four cases
 The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email.
 
 ## Teams
-This is a team-based project. Please form teams of **3 students** by **March 9**. If you need help forming teams, advertise yourself and find your teammate in class.
+This is a team-based project. Please form teams of **3 students** by **March 7**. If you need help forming teams, advertise yourself and find your teammate in class.
 
 ## Project Grading (60% of Course Grade)
 - **Proposal presentation**: 10%
@@ -39,7 +39,7 @@ This can apply to an individual student, or to the entire team.
 ## Deliverables
 **All project team members should present an important part in the presentation (speak for at least one minute each)**.
 You should present your work in the presentation session. 
-- **Proposal presentation**: 5-8 minute presentation
+- **Proposal presentation video**: 5-8 minute presentation video (recorded)
 - **Progress presentation video**: 7-10 minute presentation video (recorded)
 - **Final presentation**: 10-15 minute presentation
 - **Final report**: 4-6 pages report (+ unlimited references) and slides used for final presentation
@@ -57,7 +57,7 @@ You should present your work in the presentation session.
 - They should discuss the technology, social impact, and legal aspects of the technology, including case studies that your team worked on.
 
 ## Project Proposal
-Give a **5-8 minute proposal presentation** that includes the following:
+Give a **5-8 minute proposal presentation video** that includes the following:
 - **Problem**: What is the topic of your paper? What is the specific case being tackled? Why is it important to consider this case?
 - **Related work**: What kind of social issues have been proposed regarding this problem? What kind of solutions or considerations were proposed?
 - **Technology**: What kind of technology was used in this case?
