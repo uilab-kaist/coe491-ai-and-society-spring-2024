@@ -5,10 +5,10 @@ You will be asked to
 2. individually write discussion prompt(s)
 3. listen to in-class lectures or interviews during class (if any)
 4. participate in group discussion based on the discussion prompt curated by the lecturer
-5. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1eW3-PCS-H1-GaT8PSTtsyCHo6EUnrfb2?usp=share_link)
+5. submit the discussion report on [Google Drive](https://drive.google.com/drive/folders/1UFaq0thCXl--OLUtl1UxANAiQ9DFzGxm?usp=drive_link)
 
 ## Discussion Prompt
-- All students will submit the discussion prompts **individually** before class, after watching the video(s) uploaded, **until every Wednesday at 6 pm** (submit by [Google Form](https://docs.google.com/forms/d/e/1FAIpQLScOwq5sGyYv34E7uWbPPpqJiDbo2QDvc-G8kD-P4AKROP-QOQ/viewform)).
+- All students will submit the discussion prompts **individually** before class, after watching the video(s) uploaded, **until every Wednesday at 1 pm** (submit by [Google Form](https://forms.gle/BHFfYBeozDFCnmX18)).
 - Please refer to the following examples for the discussion prompt.
 
 ```
