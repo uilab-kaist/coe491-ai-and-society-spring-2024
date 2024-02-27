@@ -9,8 +9,8 @@ All contents in this document are subject to change.
 * [2023/02/27] Class schedule has been updated.
 
 ## Shortcuts
-* [Discussion Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/discussion)
-* [Team Project Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/project)
+* [Discussion Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/discussion)
+* [Team Project Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2023/project)
 * [Google Drive for Class Material](https://drive.google.com/drive/folders/1AAJ-MXqoQmytCkNWNpFfU_j72N_LKGf-?usp=drive_link)
 
 ## COVID-19
