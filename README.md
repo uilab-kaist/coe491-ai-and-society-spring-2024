@@ -11,7 +11,7 @@ All contents in this document are subject to change.
 ## Shortcuts
 * [Discussion Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/discussion)
 * [Team Project Page](https://uilab-kaist.github.io/cs492-ai-and-society-spring-2024/project)
-* [Google Drive for Class Material](https://drive.google.com/drive/folders/1AAJ-MXqoQmytCkNWNpFfU_j72N_LKGf-?usp=sharing)
+* [Google Drive for Class Material](https://drive.google.com/drive/folders/1AAJ-MXqoQmytCkNWNpFfU_j72N_LKGf-?usp=drive_link)
 
 ## COVID-19
 Most classes will be in-person but will be recorded for those who are not able to attend.
