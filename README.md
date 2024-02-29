@@ -40,10 +40,10 @@ This course follows regulations regarding KAIST and South Korea government.
 |   1   | 02/29 <br/> 10:00                            | Introduction <br/> | Introduction | | |
 |   2   | 03/07 <br/> **11:00**                        | Discussion     | LLM: Technology | 2 Videos before class | Choose Teams |
 |   3   | 03/14 <br/> **11:00**                        | Discussion     | LLM: Social Impact | 2 Videos before class | |
-|   4   | 03/21 <br/> 10:00                            | Discussion     | LLM: Legal Aspects        | In-class Lecture | |
+|   4   | 03/21 <br/> **11:00**                            | Discussion     | LLM: Legal Aspects        | In-class Lecture | |
 |   5   | 03/28 <br/> TBD                              | Discussion     | Multimodal AI: Technology | | Proposal Presentations (Upload Video), Peer-review |
 |   6   | 04/04 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | |  |
-|   7   | 04/11 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | |  |
+|   7   | 04/11 <br/> TBD                              | Discussion     | Multimodal AI: Legal Aspects | |  |
 |   8   | 04/18                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
 |   9   | 04/25 <br/> TBD                              | Discussion    | Automated Decision Making: Technology |  | |
 |   10  | 05/02 <br/> TBD                              | Discussion    | Automated Decision Making: Social Impact | | |
