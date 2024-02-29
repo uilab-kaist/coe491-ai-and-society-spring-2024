@@ -22,7 +22,7 @@ The goal of the team project is to research a case different from the four cases
 The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email.
 
 ## Teams
-This is a team-based project. Please form teams of **3 students** by **March 7**. If you need help forming teams, advertise yourself and find your teammate in class.
+This is a team-based project. Please form teams of **4 students** by **March 7**. If you need help forming teams, advertise yourself and find your teammate in class.
 
 ## Project Grading (60% of Course Grade)
 - **Proposal presentation**: 10%
