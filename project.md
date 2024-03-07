@@ -22,7 +22,18 @@ The goal of the team project is to research a case different from the four cases
 The project should include one or more interviews with the technology/social/legal experts who are knowledgeable about the case. The interviews can be conducted orally (phone interviews are okay) or by email.
 
 ## Teams
-This is a team-based project. Please form teams of **4 students** by **March 7**. If you need help forming teams, advertise yourself and find your teammate in class.
+This is a team-based project. 
+|  Group |                   Team members           |  
+|:-----:|:-----------------------------------------:|
+|   1   | 강동재, Aow Si Li Sara, 명준호, 연주형  | 
+|   2   | 조준한, 이리아, 황영혜, Keisuke Kudo    | 
+|   3   | 이윤호, 기채운, 정재웅, 김민석            | 
+|   4   | 정병영, 서민지, 김상오, 강재영            | 
+|   5   | 배주호, 최서영, 박슬아, 김경섭            | 
+|   6   | 유소현, 함동윤, 김경현                  |
+|   7   | 안동현, 신예은, Tobias Thiel           | 
+|   8   | 이동건, 김관우, 김병현                   | 
+
 
 ## Project Grading (60% of Course Grade)
 - **Proposal presentation**: 10%
