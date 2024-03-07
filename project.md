@@ -23,6 +23,7 @@ The project should include one or more interviews with the technology/social/leg
 
 ## Teams
 This is a team-based project. 
+
 |  Group |                   Team members           |  
 |:-----:|:-----------------------------------------:|
 |   1   | 강동재, Aow Si Li Sara, 명준호, 연주형  | 
