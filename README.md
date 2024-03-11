@@ -34,19 +34,19 @@ All contents in this document are subject to change.
 |  week |                    Day & Time                    |                Type             |                      Topic                    |      Lectures     |           Project          |
 |:-----:|:-----------------------------------------:|:-------------------------------:|:---------------------------------------------:|:--------------:|:--------------------------:|
 |   1   | 02/29 <br/> 10:00                            | Introduction <br/> | Introduction | | |
-|   2   | 03/07 <br/> **11:00**                        | Discussion     | LLM: Technology | 2 Videos before class | Choose Teams |
-|   3   | 03/14 <br/> **11:00**                        | Discussion     | LLM: Social Impact | 2 Videos before class | |
-|   4   | 03/21 <br/> **11:00**                            | Discussion     | LLM: Legal Aspects        | 1 Video before class | |
-|   5   | 03/28 <br/> TBD                              | Discussion     | Multimodal AI: Technology | | Proposal Presentations (Upload Video), Peer-review |
-|   6   | 04/04 <br/> TBD                              | Discussion     | Multimodal AI: Social Impact | |  |
-|   7   | 04/11 <br/> TBD                              | Discussion     | Multimodal AI: Legal Aspects | |  |
+|   2   | 03/07 <br/> **11:00**                        | Discussion     | LLM: Technology | 2 videos before class | Choose Teams |
+|   3   | 03/14 <br/> **11:00**                        | Discussion     | LLM: Social Impact | 2 videos before class | |
+|   4   | 03/21 <br/> **11:00**                         | Discussion     | LLM: Legal Aspects        | 1 video before class | |
+|   5   | 03/28 <br/> **11:00**                        | Discussion     | Multimodal AI: Legal Aspects | 1 video before class | Proposal Presentations (Upload Video), Peer-review |
+|   6   | 04/04 <br/> **11:00**                        | Discussion     | Multimodal AI: Social Impact | Video before class | |
+|   7   | 04/11 <br/> **11:00**                         | Discussion     | Multimodal AI: Technology | 1 video before class | |
 |   8   | 04/18                              | No Class (Midterm Exam) | | | Project Progress Presentations (Upload Video), Peer-review|
 |   9   | 04/25 <br/> TBD                              | Discussion    | Automated Decision Making: Technology |  | |
-|   10  | 05/02 <br/> TBD                              | Discussion    | Automated Decision Making: Social Impact | | |
+|   10  | 05/02 <br/> **11:00**                           | Discussion    | Automated Decision Making: Social Impact |  3 videos before class ||
 |   11  | 05/09 <br/> TBD                             | Discussion    | Automated Decision Making: Legal Aspects| | |
 |   12  | 05/16 <br/> TBD                              | Discussion    | Self-driving: Technology | In-class Lecture | |
-|   13  | 05/23 <br/> TBD                             | Discussion    | Self-driving: Legal Aspects | 1 Interview Video before class| |
-|   14  | 05/30 <br/> TBD                              | Discussion       | Self-driving: Social Impact | 1 Lecture Video & 1 Interview Video before class| |
+|   13  | 05/23 <br/> **10:30**                       | Discussion    | Self-driving: Social Impact (+Guest Lecture) | Video before class | |
+|   14  | 05/30 <br/> **11:00**                        | Discussion       | Self-driving: Legal Aspects | 1 video before class| |
 |   15  | 06/06 <br/>                 | No Class (Holiday) | | | |
 |   16  | 06/13 <br/> TBD                             | Project Presentation          |                           | | Final Presentation; Final Report |
 
