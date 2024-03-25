@@ -118,10 +118,10 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - **References** (unlimited pages)
 
 ## Peer Grading
-- We will use Google form (TBD) and it will be done in the lecture.
-- Everyone (individually) should grade and comment on
-  - Proposal presentations
-  - Progress presentation videos
+- You should submit 7 Google forms (one for each team except your team).
+- Everyone (individually) should grade and comment on  
+  - Proposal presentations (https://forms.gle/ajPKDXLM7UKeYsnw8)
+  - Progress presentation videos 
   - Final presentations & reports
 
 ## Teamwork Report
