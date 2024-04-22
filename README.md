@@ -41,7 +41,7 @@ All contents in this document are subject to change.
 |   6   | 04/04 <br/> **11:00**                        | Discussion     | Multimodal AI: Social Impact | Video before class | |
 |   7   | 04/11 <br/> **11:00**                         | Discussion     | Multimodal AI: Technology | 1 video before class | |
 |   8   | 04/18                              | No Class (Midterm Exam) | | | |
-|   9   | 04/25 <br/> TBD                              | Discussion    | Automated Decision Making: Technology | TBD  | |
+|   9   | 04/25 <br/> **10:30**                              | Discussion    | Automated Decision Making: Technology (+Guest Lecture) |  | |
 |   10  | 05/02 <br/> **11:00**                           | Discussion    | Automated Decision Making: Social Impact |  3 videos before class |Project Progress Presentations (Upload Video), Peer-review|
 |   11  | 05/09 <br/> TBD                             | Discussion    | Automated Decision Making: Legal Aspects| TBD | |
 |   12  | 05/16 <br/> **11:00**                          | Discussion    | Self-driving: Technology | 3 videos before class | |
