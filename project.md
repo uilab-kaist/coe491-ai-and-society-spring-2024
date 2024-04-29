@@ -5,7 +5,7 @@
 - Week  5 (3/28): **Project proposal**
   - Submission deadline: **23:59, March 28, 2024**
   - Peer grading deadline: **23:59, March 31, 2024**
-- Week  8 (4/18): **Progress Update, Peer grading**
+- Week  8 (5/2): **Progress Update, Peer grading**
   - Submission deadline: **23:59, May 2, 2024**
   - Peer grading deadline: **23:59, May 5, 2024**
 - Week 16 (6/13): **Final presentation, Peer grading**
