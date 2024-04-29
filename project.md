@@ -121,7 +121,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - You should submit 7 Google forms (one for each team except your team).
 - Everyone (individually) should grade and comment on  
   - Proposal presentations [Google Form](https://forms.gle/ajPKDXLM7UKeYsnw8)
-  - Progress presentation videos 
+  - Progress presentation videos [Google Form] (https://forms.gle/9kg5r9QGULqTWcNy8)
   - Final presentations & reports
 
 ## Teamwork Report
