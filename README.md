@@ -43,10 +43,10 @@ All contents in this document are subject to change.
 |   8   | 04/18                              | No Class (Midterm Exam) | | | |
 |   9   | 04/25 <br/> **10:30**                              | Discussion    | Automated Decision Making: Technology (+Guest Lecture) |  | |
 |   10  | 05/02 <br/> **11:00**                           | Discussion    | Automated Decision Making: Social Impact |  3 videos before class |Project Progress Presentations (Upload Video), Peer-review|
-|   11  | 05/09 <br/> TBD                             | Discussion    | Automated Decision Making: Legal Aspects| TBD | |
-|   12  | 05/16 <br/> **11:00**                          | Discussion    | Self-driving: Technology | 3 videos before class | |
+|   11  | 05/09 <br/> **11:00**                              | Discussion    | Automated Decision Making: Legal Aspects| 1 video before class | |
+|   12  | 05/16 <br/> **11:00**                          | Discussion    | Self-driving: Legal Aspects | 1 video before class| |
 |   13  | 05/23 <br/> **10:30**                       | Discussion    | Self-driving: Social Impact (+Guest Lecture) | | |
-|   14  | 05/30 <br/> **11:00**                        | Discussion       | Self-driving: Legal Aspects | 1 video before class| |
+|   14  | 05/30 <br/> **11:00**                        | Discussion       | Self-driving: Technology | 3 videos before class | |
 |   15  | 06/06 <br/>                 | No Class (Holiday) | | | |
 |   16  | 06/13 <br/> TBD                             | Project Presentation          |                           | | Final Presentation; Final Report |
 
