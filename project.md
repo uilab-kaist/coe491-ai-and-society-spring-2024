@@ -125,7 +125,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
   - Final presentations & reports [Google Form](https://forms.gle/kdJw1Aq2VZuP1Bv37)
 
 ## Teamwork Report
-- We will use Google form
+- We will use [Google form](https://forms.gle/ZjQPC1mB8Z474QqM6)
 - Everyone should contribute, and everyone should learn something new
 - Everyone (individually) should write
   - Who did what for each task (proposal presentation, progress presentation, project presentation, final report) in detail
