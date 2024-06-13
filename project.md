@@ -122,7 +122,7 @@ Give a **10-15 minute final presentation** and submit a **4-6 page (+ unlimited 
 - Everyone (individually) should grade and comment on  
   - Proposal presentations [Google Form](https://forms.gle/ajPKDXLM7UKeYsnw8)
   - Progress presentation videos [Google Form](https://forms.gle/9kg5r9QGULqTWcNy8)
-  - Final presentations & reports
+  - Final presentations & reports [Google Form](https://forms.gle/kdJw1Aq2VZuP1Bv37)
 
 ## Teamwork Report
 - We will use Google form
